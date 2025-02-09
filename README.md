@@ -1,8 +1,8 @@
-<h2 align="center">Hello I'm Quentin and this my Github page !</h2>
+<h1 align="center">Hello I'm Quentin and this my Github page !</h1>
 
 ###
 
-<p align="left">Hello World!!</p>
+<h3 align="left">Hello, my name is Quentin, an 18-year-old French developer with a passion for Python. My focus is on cybersecurity, with a particular interest in exploiting system vulnerabilities. All of my programs are created for educational purposes only, aimed at deepening my knowledge and exploring new technologies. Everything I share is free, but if you want to support me you can buy me a coffee.</h3>
 
 ###
 
@@ -25,13 +25,17 @@
 
 ###
 
-<img align="right" height="150" src="https://github.com/NinjaPanic/Images/blob/main/sombra.gif?raw=true"  />
+<img align="right" height="150" src="https://github.com/NinjaPanic/Images/blob/main/Linux.gif?raw=true"  />
 
 ###
 
 <div align="left">
-  <a href="https://discord.gg/X9MxZ3JnXy" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="35" alt="discord logo"  />
+  <a href="https://t.me/+BWpNn29328dlYWFk" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=flat" height="35" alt="telegram logo"  />
+  </a>
+  <a href="https://ko-fi.com/ninjapanic" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=flat" height="35" alt="ko-fi logo"  />
   </a>
 </div>
 
