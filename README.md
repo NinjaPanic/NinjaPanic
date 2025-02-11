@@ -14,7 +14,7 @@
 ###
 
 <div align="left">
-  <a href="https://discord.gg/X9MxZ3JnXy" target="_blank">
+  <a href="https://discord.gg/K3pdByqGRD" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="35" alt="discord logo"  />
   </a>
   <a href="https://t.me/+BWpNn29328dlYWFk" target="_blank">
