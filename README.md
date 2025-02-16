@@ -17,9 +17,6 @@
   <a href="https://discord.gg/K3pdByqGRD" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="35" alt="discord logo"  />
   </a>
-  <a href="https://t.me/+BWpNn29328dlYWFk" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=flat" height="35" alt="telegram logo"  />
-  </a>
   <a href="https://ko-fi.com/ninjapanic" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=flat" height="35" alt="ko-fi logo"  />
   </a>
